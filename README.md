@@ -1,5 +1,5 @@
 # JavaScript-100-objective-based-questions
-
+vedio ling 
 
 **1. Can we connect JavaScript Directly with Actual Database. can you give reason of it ?**
 ```js
