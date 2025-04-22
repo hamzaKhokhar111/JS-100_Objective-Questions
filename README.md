@@ -1,5 +1,5 @@
 # JavaScript-100-objective-based-questions
-vedio linKk
+vedio linK
 
 ::>>https://youtu.be/eJBq3Vh5grI?si=rg5piFAxIvx2mPnc
 
