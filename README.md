@@ -2,6 +2,7 @@
 vedio linK
 
 ::>>https://youtu.be/eJBq3Vh5grI?si=rg5piFAxIvx2mPnc
+add
 
 ::>>vedio2 : https://youtu.be/CNoBpeo2rn0?si=4wJaxokMgUPfekNL
 
